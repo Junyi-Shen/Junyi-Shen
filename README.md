@@ -2,13 +2,13 @@
 <p>A motivated Computer Science student</p>
 <h2>Skills and Abilities</h2>
 <ul>
-  <li>•	Programming Languages: Python, Java, C++, JavaScript</li>
-  <li>•	Web Development: HTML, CSS</li>
-  <li>•	Database Management: SQL</li>
-  <li>•	Software Tools: GitHub, Visual Studio</li>
-  <li>•	Personal Skills: Communication, Time Management, Agile, Problem Solving</li>
-  <li>•	Interests: Drawing, Playing the Piano</li>
-  <li>•	Languages: Mandarin(native), English(fluent), Japanese(fluent), French(beginner)</li>
+  <li>Programming Languages: Python, Java, C++, JavaScript</li>
+  <li>Web Development: HTML, CSS</li>
+  <li>Database Management: SQL</li>
+  <li>Software Tools: GitHub, Visual Studio</li>
+  <li>Personal Skills: Communication, Time Management, Agile, Problem Solving</li>
+  <li>Interests: Drawing, Playing the Piano</li>
+  <li>Languages: Mandarin(native), English(fluent), Japanese(fluent), French(beginner)</li>
 </ul>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
