@@ -1,6 +1,6 @@
 <h1>Hi! I'm Junyi Shen</h1>
 <p>A motivated Computer Science student</p>
-<h2>Skills and Abilities</h2>
+<h2>📖 Skills and Abilities</h2>
 <ul>
   <li>Programming Languages: Python, Java, C++, JavaScript</li>
   <li>Web Development: HTML, CSS</li>
